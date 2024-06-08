@@ -1,0 +1,46 @@
+body {
+    background-image: url(tumblr_inline_miqn3dMemA1qz4rgp.png)
+}
+/* Container holding the image */
+.nice {
+position: relative;
+text-align: center;
+margin: auto;
+}
+.lands {
+  width: 1295px;
+  height: 650px;
+}
+.ohwow {
+top: 0;
+right: 0;
+position: absolute;
+width: 300px;
+font-size: 25px;
+font-family: 'Monaco', monospace;
+color: #f5b3d0;
+background-color: white;
+display: block;
+margin-right: 30px;
+margin-top: 10px;
+}
+.notice {
+  top: 0;
+right: 0;
+width: 200px;
+font-size: 30px;
+margin-top: 55px;
+margin-right: 870px;
+font-family: 'Monaco', monospace;
+color: #82359c;
+position: absolute;
+font-weight: bold;
+}
+.cheer {
+position: absolute;
+ top: 0;
+right: 0;
+width: 240px;
+margin-top: 245px;
+margin-right: 270px;
+}

@@ -1,0 +1,45 @@
+body {
+    background-image: url(bg16.jpg)
+}
+/* Container holding the image */
+.death {
+position: relative;
+text-align: center;
+margin: auto;
+}
+.game {
+  width: 900px;
+height: 650px;
+}
+ .cauldron {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 250px;
+  margin-top: 340px;
+  margin-right: 540px;;
+}
+.text {
+  top: 0;
+right: 0;
+width: 800px;
+margin-top: 60px;
+margin-right: 265px;
+font-size: 35px;
+font-family: 'Monaco', monospace;
+color: #d162b0;
+position: absolute;
+font-weight: bold;
+}
+.restart {
+  top: 0;
+right: 0;
+width: 900px;
+font-size: 35px;
+margin-top: 600px;
+margin-right: 210px;
+font-family: 'Monaco', monospace;
+color: white;
+position: absolute;
+text-decoration: underline;
+}

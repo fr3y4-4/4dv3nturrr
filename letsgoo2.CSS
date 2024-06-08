@@ -1,0 +1,28 @@
+body {
+    background-image: url(bg6.gif)
+}
+/* Container holding the image */
+.nice {
+position: relative;
+text-align: center;
+display: flex;
+justify-content: center;
+}
+.lands {
+  width: 1295px;
+  height: 650px;
+}
+ .mmiku {
+  position: absolute;
+  width: 830px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 45px;
+}
+.hmm {
+position: absolute;
+width: 900px;
+display: block;
+margin: 0 auto;
+margin-top: 460px;
+}

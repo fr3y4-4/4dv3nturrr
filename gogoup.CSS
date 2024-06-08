@@ -1,0 +1,26 @@
+body {
+    background-image: url(tumblr_inline_n25af3Cia51qhwjx8.png)
+}
+/* Container holding the image */
+.nice {
+position: relative;
+text-align: center;
+margin: auto;
+}
+.lands {
+  width: 1295px;
+  height: 650px;
+}
+.letsgo {
+  top: 0;
+right: 0;
+width: 300px;
+font-size: 32px;
+margin-top: 5px;
+margin-right: 210px;
+font-family: 'Monaco', monospace;
+color: #82359c;
+position: absolute;
+text-decoration: underline;
+font-weight: bold;
+}

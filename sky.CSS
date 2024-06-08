@@ -1,0 +1,54 @@
+body {
+    background-image: url(tumblr_inline_n2598rI8l01qhwjx8540.gif)
+}
+/* Container holding the image and the text */
+.shiny {
+position: relative;
+text-align: center;
+display: flex;
+justify-content: center;
+}
+ .border {
+  position: absolute;
+  width: 540px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 510px;
+}
+.border2 {
+  position: absolute;
+  width: 540px;
+  display: block;
+  margin: 0 auto;
+}
+.containt {
+position: relative;
+height: 420px;
+width: 540px;
+background-color: white;
+margin: 0 auto;
+margin-top: 190px;
+text-align: center;
+display: flex;
+justify-content: center;
+}
+.text3 {
+position: absolute;
+transform: translate (-50%, -50%);
+font-size: 28px;
+font-family: 'Monaco', monospace;
+color: #947ac4;
+font-weight: bold;
+width: 510px;
+display: block;
+margin: 0 auto;
+margin-top: 100px;
+}
+.arrow {
+position: absolute;
+top: 0;
+right: 0;
+width: 160px;
+margin-top: 430px;
+margin-right: 45px;
+}

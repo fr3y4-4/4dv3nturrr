@@ -1,0 +1,29 @@
+body {
+    background-image: url(tumblr_inline_n25af3Cia51qhwjx8.png)
+}
+/* Container holding the image */
+.nice {
+position: relative;
+text-align: center;
+margin: auto;
+}
+.lands {
+  width: 1295px;
+  height: 650px;
+}
+ .mmiku {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 320px;
+  margin-top: 70px;
+  margin-right: 830px;
+}
+.hmm {
+position: absolute;
+top: 0;
+right: 0;
+width: 1000px;
+margin-top: 460px;
+margin-right: 170px;
+}

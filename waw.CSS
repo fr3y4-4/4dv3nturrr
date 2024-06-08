@@ -1,0 +1,40 @@
+body {
+    background-image: url(bg6.gif)
+}
+/* Container holding the image */
+.pretty {
+position: relative;
+text-align: center;
+margin: auto;
+}
+.land {
+  width: 1195px;
+  height: 650px;
+}
+ .fairy {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 250px;
+  margin-top: 220px;
+  margin-right: 820px;
+}
+.great {
+  top: 0;
+right: 0;
+width: 170px;
+font-size: 34px;
+margin-top: 40px;
+margin-right: 90px;
+font-family: 'Helvetica', sans-serif;
+color: #db9ad3;
+position: absolute;
+background-color: #fcebf4;
+}
+.name {
+bottom: 0;
+right: 0;
+margin-right: 22%;
+margin-bottom: 70px;
+position: absolute;
+}

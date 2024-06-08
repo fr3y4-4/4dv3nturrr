@@ -1,0 +1,33 @@
+body {
+    background-image: url(bg18.gif)
+}
+/* Container holding the image */
+.door {
+position: relative;
+text-align: center;
+margin: auto;
+}
+.library {
+  width: 1300px;
+height: 650px;
+}
+ .portal {
+  position: absolute;
+  top: 0;
+  right: 0;
+  top: 150px;
+  right: 480px;
+  width: 400px;
+}
+.text {
+  top: 0;
+right: 0;
+width: 800px;
+margin-top: 23px;
+margin-right: 265px;
+font-size: 35px;
+font-family: 'Monaco', monospace;
+color: #e8d3f0;
+position: absolute;
+font-weight: bold;
+}

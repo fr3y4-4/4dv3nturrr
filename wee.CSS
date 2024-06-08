@@ -1,0 +1,50 @@
+body {
+    background-image: url(bg18.gif)
+}
+/* Container holding the image */
+.idk {
+position: relative;
+text-align: center;
+margin: auto;
+}
+.house {
+  width: 1325px;
+  height: auto;
+}
+ .wizard {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 450px;
+  margin-top: 120px;
+  margin-right: 680px;
+}
+.textt {
+  top: 0;
+right: 0;
+width: 400px;
+font-size: 31px;
+margin-top: 60px;
+margin-right: 330px;
+font-family: 'Helvetica', sans-serif;
+color: #291a40;
+position: absolute;
+background-color: #d0c8de;
+}
+.huh {
+top: 0;
+right: 0;
+font-size: 20px;
+margin-top: 240px;
+margin-right: 950px;
+font-family: 'Helvetica', sans-serif;
+color: red;
+position: absolute;
+}
+.pleas {
+bottom: 0;
+right: 0;
+margin-right: 22%;
+margin-bottom: 10px;
+position: absolute;
+}

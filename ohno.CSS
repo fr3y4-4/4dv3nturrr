@@ -1,0 +1,45 @@
+body {
+    background-image: url(3-black6.gif)
+}
+/* Container holding the image */
+.ofuc {
+position: relative;
+text-align: center;
+margin: auto;
+}
+.dungeon {
+  width: 1300px;
+height: 650px;
+}
+ .lady {
+  position: absolute;
+  top: 0;
+  right: 0;
+  top: 130px;
+  right: 510px;
+  width: 300px;
+}
+.text {
+  top: 0;
+right: 0;
+width: 1300px;
+margin-top: 473px;
+margin-right: 7px;
+font-size: 31px;
+font-family: 'Monaco', monospace;
+color: #fc325e;
+position: absolute;
+font-weight: bold;
+}
+.wait {
+top: 0;
+right: 0;
+width: 150px;
+margin-top: 67px;
+margin-right: 865px;
+font-size: 16px;
+font-family: 'Monaco', monospace;
+color: white;
+position: absolute;
+font-weight: bold;
+text-decoration: underline;

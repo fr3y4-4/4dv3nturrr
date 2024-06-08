@@ -1,0 +1,16 @@
+body {
+ background-image: url("8-pink.gif");
+  margin-top: 170px;
+  margin: auto;
+  font-size:30px;
+ font-family: 'Helvetica', sans-serif;
+  text-align: center;
+  color:#d07593;
+}
+span {
+    display: block
+    margin: 0 auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
